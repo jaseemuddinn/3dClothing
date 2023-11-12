@@ -14,9 +14,23 @@ Welcome to the T-Shirt Customization project! This web application, built with T
    cd 3dClothing
    ```
 
-3. **Run the Application:**
+4. **Navigate to the Client Directory**
+   ```bash
+   cd .\client\
+   ```
+
+5. **Run the Application:**
    ```bash
    npm run dev
+   ```
+
+**For ChatGPT Function, Go to Server Directory**
+   ```bash   
+   cd .\server\
+   ```
+6. **Run the Applicatiob**
+   ```bash
+   nodemon
    ```
 
 ## Features
