@@ -15,7 +15,9 @@ Welcome to the T-Shirt Customization project! This web application, built with T
    ```
 
 3. **Run the Application:**
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
 
 ## Features
 
