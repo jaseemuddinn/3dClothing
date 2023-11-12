@@ -24,11 +24,11 @@ Welcome to the T-Shirt Customization project! This web application, built with T
    npm run dev
    ```
 
-**For ChatGPT Function, Go to Server Directory**
+   **For ChatGPT Function, Go to Server Directory**
    ```bash   
    cd .\server\
    ```
-6. **Run the Applicatiob**
+6. **Run the Application**
    ```bash
    nodemon
    ```
